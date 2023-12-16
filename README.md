@@ -10,5 +10,5 @@ Copyright © 2023 Ishimaki Kazutoyo. All rights reserved.
 4.VocabularyNotebookWithGPTのディレクトリをターミナルで開く<br>
 5.モジュールをインストール<br>
 npm i express nodemon
-6.npm run dev
+6.npm run dev<br>
 7.localhost:4000　をブラウザで開く
