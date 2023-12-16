@@ -9,6 +9,6 @@ Copyright © 2023 Ishimaki Kazutoyo. All rights reserved.
 3.server.jsの20行目にAPIを入力<br>
 4.VocabularyNotebookWithGPTのディレクトリをターミナルで開く<br>
 5.モジュールをインストール<br>
-npm i express nodemon
+npm i express nodemon<br>
 6.npm run dev<br>
 7.localhost:4000　をブラウザで開く
