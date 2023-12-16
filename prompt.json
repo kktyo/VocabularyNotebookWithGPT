@@ -1,0 +1,3 @@
+{
+"prompt":"For the following English sentences, extract difficult English words and make an English vocabulary book. However, the format should be English word | Japanese translation ¥n .Output is words only.Please start a new line after Japanese words."
+}
